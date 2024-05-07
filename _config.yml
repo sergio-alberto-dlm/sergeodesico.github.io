@@ -12,7 +12,7 @@ title                    : "Sergio's Homepage"
 title_separator          : "-"
 name                     : &name "Sergio De León"
 description              : &description "Academic page of Sergio"
-url                      : https://sergeodesico.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sergio-alberto-dlm/sergeodesico.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sergio-alberto-dlm/sergeodesico.github.io"
 
