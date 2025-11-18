@@ -9,7 +9,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: /files/Resume.pdf
+    url: /files/cv_sergio.pdf
     
   - title: "Guide"
     url: /markdown/
