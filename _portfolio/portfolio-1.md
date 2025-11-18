@@ -1,6 +1,6 @@
 ---
 title: "DynaMiTE: Towards Robust 2D Gaussian Splatting-based camera localization"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/demo_dynamite_ANYmal1.gif'>"
 collection: portfolio
 ---
 
