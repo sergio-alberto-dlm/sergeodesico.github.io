@@ -19,5 +19,5 @@ main:
     # url: /cv/
     url: /files/cv_sergio.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
